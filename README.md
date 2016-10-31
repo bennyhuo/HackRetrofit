@@ -60,4 +60,4 @@ This is kind of for fun...
 
 [Android 下午茶：Hack Retrofit (2) 之 Mock Server](http://www.println.net/post/Android-Hack-Retrofit-Mock-Server)
 
-[深入浅出 Retrofit，这么牛逼的框架你们还不来看看？](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1117&extra=page%3D1)
+[深入浅出 Retrofit，这么牛逼的框架你们还不来看看？](http://www.println.net/post/deep-in-retrofit)
